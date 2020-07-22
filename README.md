@@ -12,29 +12,31 @@
 
 ## General info
 
-This basic website was quickly designed for a friend who owns and run a small milk delivery business. The business owner essentially relies on "word of mouth" for new sales.
+A clone of the asteroids game.
 
-He wanted something basic that he may wish to use later on.
+It was developed by using a HTML GAme development book where i wanted to learn more about HTML Canvas, Frame Animation with basic Object Oriented principles.
+
+It also provided some key learnings in how calculations are performed to measure distance, angles, motion to game entities. Specifcally, have an appreciation how physics plays a part in game development.
 
 ## Asteroids Link
 
 -   The link to his website is:
-    [https://mistergjones.github.io/andrewmilk/]
+    [https://mistergjones.github.io/asteroids/]
 
 ## MVP
 
-The following were the key requirements in meeting the MVP/POC.
+The following were the key requirements in meeting the Asteroids game.
 
--   a basic website with a contact button for emails that he could respond to.
--   a simple layout that captures the key products that he offers.
--   no need to list prices given the senstivity and competition from other small businesses.
+-   Learn HTML Canvas, Frame animation, Javascript with OO principles.
+-   Implement the use of key handler events to capture the player controls. (e.g. up arrow, down arrow etc)
+-   Learn and understand how the calculation of angles, motion
 
 ## Future Functionality
 
 Future functionality can incorporate the following:
 
--   A backend where customers can login and select what they would like to order.
--   This order upon submission to be submitted automatically to his email.
+-   Increase the size of the asteroids to be bigger
+-   Increase the number of asteroids once you have cleared the screen.
 
 ## Screenshots
 
@@ -42,24 +44,26 @@ Future functionality can incorporate the following:
 
 ## In depth Features
 
--   Purely HTML and CSS.
+-   HTML and Javasceript.
+-   Object Oriented principles with inheritance.
+-   Use of sin(), cos() and atan() to help with angles and distance.
 
 ## Challenges
 
--   No real challenges for this website.
--   Just needed to create a MILK favicon.
+-   Understanding OO principles and how they are applied.
+-   Understanding how physics in the "real world" are developed and applied within a game.
 
 ## Technologies Used
 
 Project is created with:
 
--   CSS.
+-   Javascript.
 -   HTML.
 -   Git/Github (for version control).
--   Surge & Github pages (for hosting)
+-   Github pages (for hosting)
 
 ## Download
 
 Download via:
 
--   https://github.com/mistergjones/andrewmilk.git
+-   https://github.com/mistergjones/asteroids.git
