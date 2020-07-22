@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Asteroids game</title>
+        <link rel="stylesheet" href="styles.css" />
+        <script src="object.js"></script>
+        <script src="drawing.js"></script>
+        <script src="game.js"></script>
+    </head>
+    <body>
+        <h1>Asteroids</h1>
+        <h3>Instructions: Click on the game</h3>
+        <h3>
+            Arrow 'Up & 'Down' for thrust. Arrow 'Left' & 'Right' for steering
+        </h3>
+        <h3>Spacebar to fire</h3>
+
+        <canvas id="asteroids" width="600" height="600" tabindex="1"></canvas>
+
+        <script>
+            "use strct";
+            var game = new AsteroidsGame("asteroids", true);
+        </script>
+    </body>
+</html>
