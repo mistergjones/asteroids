@@ -5,7 +5,7 @@
 -   [MVP](#MVP)
 -   [Future functionality](#future-functionality)
 -   [Screenshots](#screenshots)
--   [In-depth Features of Task Time Boxer](#in-depth-features)
+-   [In-depth Features of Asteroids](#in-depth-features)
 -   [Challenges](#challenges)
 -   [Technologies Used](#technologies-used)
 -   [Download](#download)
@@ -20,7 +20,7 @@ It also provided some key learnings in how calculations are performed to measure
 
 ## Asteroids Link
 
--   The link to his website is:
+-   The link to play the game is:
     [https://mistergjones.github.io/asteroids/]
 
 ## MVP
